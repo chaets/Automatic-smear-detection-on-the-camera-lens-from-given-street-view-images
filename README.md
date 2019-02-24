@@ -1,5 +1,5 @@
 # Automatic-smear-detection-on-the-camera-lens-from-given-street-view-images
-detect smear present on the camera lens through various image processing algorithms
+Detect smear present on the camera lens through various image processing algorithms
 We need to detect smear present on the camera lens through various image
 processing algorithms
 ● The smear appears mostly in all images present in the dataset and its
@@ -11,14 +11,14 @@ exists in the dataset
 ● Anaconda for Python 3.6 and OpenCV 3.1.0 is used to implement the
 algorithm
 
-<b>Final Result after detecting and Masking</b>
+# <b>Final Result after detecting and Masking</b>
 
 ![alt text](https://github.com/chaets/Automatic-smear-detection-on-the-camera-lens-from-given-street-view-images/blob/master/results/cam_3_FinalResult.jpg)
 
-<b>Masking emage</b>
+# <b>Masking emage</b>
 
 ![alt text](https://github.com/chaets/Automatic-smear-detection-on-the-camera-lens-from-given-street-view-images/blob/master/results/cam_3_MaskedImage.jpg)
 
-<b> Smear Edge detection </b>
+# <b> Smear Edge detection </b>
 
 ![alt text](https://github.com/chaets/Automatic-smear-detection-on-the-camera-lens-from-given-street-view-images/blob/master/results/cam_3_edge_detected_image.jpg)
